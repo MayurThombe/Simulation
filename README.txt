@@ -1,0 +1,1 @@
+In both the simulations the total energy is conserved as we can see there is no dying out of motion.
